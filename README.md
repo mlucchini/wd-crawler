@@ -1,3 +1,4 @@
+![Travis CI](https://travis-ci.org/mlucchini/wd-crawler.svg?branch=master)
 # crawler
 
 ##### Run the provided assembly
