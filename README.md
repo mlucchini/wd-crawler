@@ -1,5 +1,6 @@
 # crawler
 [![Build Status](https://travis-ci.org/mlucchini/wd-crawler.svg?branch=master)](https://travis-ci.org/mlucchini/wd-crawler)
+[![Coverage Status](https://coveralls.io/repos/mlucchini/wd-crawler/badge.svg?branch=master&service=github)](https://coveralls.io/github/mlucchini/wd-crawler?branch=master)
 
 ##### Run the provided assembly
 ```sh
