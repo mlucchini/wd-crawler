@@ -1,5 +1,5 @@
 language: scala
-script: "sbt clean coverage test"
+script: "sbt test"
 script: "sbt coverageReport"
 scala:
    - 2.11.4
