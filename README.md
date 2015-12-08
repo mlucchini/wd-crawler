@@ -1,5 +1,5 @@
-![Travis CI](https://travis-ci.org/mlucchini/wd-crawler.svg?branch=master)
 # crawler
+[![Build Status](https://travis-ci.org/mlucchini/wd-crawler.svg?branch=master)](https://travis-ci.org/mlucchini/wd-crawler)
 
 ##### Run the provided assembly
 ```sh
