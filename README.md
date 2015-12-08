@@ -25,3 +25,6 @@ You may need to [download SBT](http://www.scala-sbt.org/download.html).
 - No graphical interface
 - Not used the Actor model to encapsulate the mutable shared state in the parallel crawler
 - Wrote in Scala and used a few libraries, ended up with an assembly of substantial size
+
+##### Context
+Job interview's exercise
